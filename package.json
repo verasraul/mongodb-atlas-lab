@@ -10,6 +10,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^6.2.10"
+    "mongoose": "^6.2.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verasraul/mongodb-atlas-lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/verasraul/mongodb-atlas-lab/issues"
+  },
+  "homepage": "https://github.com/verasraul/mongodb-atlas-lab#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^6.1.2"
   }
 }
