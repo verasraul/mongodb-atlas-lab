@@ -2,7 +2,7 @@ const db = require('../db')
 const { faker } = require('@faker-js/faker');
 
 
-const User = require('../models/user');
+const User = require('../models/employees');
 
 db.on('error', console.error.bind(console, "MongoDB connection error:"));
 
